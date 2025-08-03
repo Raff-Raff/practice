@@ -1,2 +1,2 @@
 # practice
-just only practice
+practice only
